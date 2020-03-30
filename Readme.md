@@ -1,6 +1,6 @@
 # Git Course
 
-Este é um repositório para testes do comando GIT.
+Este é um repositório para testes dos comandos GIT.
 
 Atenção: Apenas um repositório de teste.
 
