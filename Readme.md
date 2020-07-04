@@ -1,5 +1,7 @@
 # Git Course
 
+#Stash ajudo demais
+
 Seja Bem vindo!
 
 Este é um repositório para testes dos comandos GIT.
